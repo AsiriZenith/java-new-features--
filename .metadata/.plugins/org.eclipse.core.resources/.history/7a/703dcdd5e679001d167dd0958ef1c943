@@ -1,5 +1,4 @@
 package Predicates;
-//https://howtodoinjava.com/java8/how-to-use-predicate-in-java-8/
 
 import java.util.ArrayList;
 import java.util.Arrays;
